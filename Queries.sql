@@ -1,0 +1,3 @@
+CREATE DATABASE Newdb;
+
+SELECT * FROM Newdb;
